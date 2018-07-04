@@ -28,6 +28,7 @@ npm install https://products.wolframalpha.com/api/libraries/javascript/wolfram-a
 ## Authors
 
 * **Frank Palma** - *Initial work* - [knarfamlap](https://github.com/knarfamlap]
+* Email: frankpalma12@gmail.com
 
 
 ## License
